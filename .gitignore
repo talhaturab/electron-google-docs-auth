@@ -1,0 +1,4 @@
+node_modules/
+llama-vision-demo/
+.DS_Store
+.env

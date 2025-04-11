@@ -1,0 +1,18 @@
+{
+  "name": "electronframeworkapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "electron": "^35.1.5",
+    "node-fetch": "^3.3.2"
+  }
+}
